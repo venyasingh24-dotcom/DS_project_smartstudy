@@ -73,7 +73,7 @@ Smart-Study-Scheduler/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-study-scheduler.git
+git clone https://github.com/venyasingh24/DS_project_smartstudy.git
 cd smart-study-scheduler
 ```
 
